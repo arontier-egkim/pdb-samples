@@ -1,3 +1,4 @@
+MODEL         1
 HEADER    TRANSFERASE                             03-JAN-18   6FEX              
 TITLE     DDR1, 2-[4-BROMO-2-OXO-1'-(1H-PYRAZOLO[4,3-B]PYRIDINE-5-CARBONYL)     
 TITLE    2 SPIRO[INDOLE-3,4'-PIPERIDINE]-1-YL]-N-(2,2,2-TRIFLUOROETHYL)         
@@ -4787,7 +4788,8 @@ ATOM   4774  HB2 ASP A 908     -23.681  21.673 -23.824  1.00 45.89           H
 ATOM   4775  HB3 ASP A 908     -23.329  22.947 -24.706  1.00 45.89           H  
 TER    4776      ASP A 908                                                      
 MASTER      380    0   10   15    9    0   15    6 2729    1   81   25          
-MODEL         1
+ENDMDL
+MODEL         2
 ROOT
 ATOM      1  C   LIG    1        2.359   8.373 -26.268 -0.42 +0.02    +0.110 C
 ATOM      2  C   LIG    1        2.646   7.652 -27.635 -0.37 +0.01    +0.030 C

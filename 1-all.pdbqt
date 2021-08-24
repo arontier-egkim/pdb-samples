@@ -1,131 +1,4 @@
 MODEL         1
-HEADER    TRANSFERASE                             03-JAN-18   6FEX              
-TITLE     DDR1, 2-[4-BROMO-2-OXO-1'-(1H-PYRAZOLO[4,3-B]PYRIDINE-5-CARBONYL)     
-TITLE    2 SPIRO[INDOLE-3,4'-PIPERIDINE]-1-YL]-N-(2,2,2-TRIFLUOROETHYL)         
-TITLE    3 ACETAMIDE, 1.291A, P212121, RFREE=17.4%                              
-COMPND    MOL_ID: 1;                                                            
-COMPND   2 MOLECULE: EPITHELIAL DISCOIDIN DOMAIN-CONTAINING RECEPTOR 1;         
-COMPND   3 CHAIN: A;                                                            
-COMPND   4 FRAGMENT: TYROSINE KINASE DOMAIN, RESIDUES 593-913;                  
-COMPND   5 SYNONYM: EPITHELIAL DISCOIDIN DOMAIN RECEPTOR 1,CD167 ANTIGEN-LIKE   
-COMPND   6 FAMILY MEMBER A,CELL ADHESION KINASE,DISCOIDIN RECEPTOR TYROSINE     
-COMPND   7 KINASE,HGK2,MAMMARY CARCINOMA KINASE 10,MCK-10,PROTEIN-TYROSINE      
-COMPND   8 KINASE 3A,PROTEIN-TYROSINE KINASE RTK-6,TRK E,TYROSINE KINASE DDR,   
-COMPND   9 TYROSINE-PROTEIN KINASE CAK;                                         
-COMPND  10 EC: 2.7.10.1;                                                        
-COMPND  11 ENGINEERED: YES;                                                     
-COMPND  12 MUTATION: YES                                                        
-SOURCE    MOL_ID: 1;                                                            
-SOURCE   2 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                   
-SOURCE   3 ORGANISM_COMMON: HUMAN;                                              
-SOURCE   4 ORGANISM_TAXID: 9606;                                                
-SOURCE   5 GENE: DDR1, CAK, EDDR1, NEP, NTRK4, PTK3A, RTK6, TRKE;               
-SOURCE   6 EXPRESSION_SYSTEM: SPODOPTERA FRUGIPERDA;                            
-SOURCE   7 EXPRESSION_SYSTEM_TAXID: 7108;                                       
-SOURCE   8 EXPRESSION_SYSTEM_CELL_LINE: SF9;                                    
-SOURCE   9 EXPRESSION_SYSTEM_VECTOR_TYPE: PLASMID;                              
-SOURCE  10 EXPRESSION_SYSTEM_PLASMID: PFASTBAC1                                 
-KEYWDS    RTK, RECEPTOR TYROSINE KINASE, COLLAGEN, DISCOIDIN DOMAIN;,           
-KEYWDS   2 TRANSFERASE                                                          
-EXPDTA    X-RAY DIFFRACTION                                                     
-AUTHOR    M.STIHLE,H.RICHTER,J.BENZ,B.KUHN,M.G.RUDOLPH                          
-REVDAT   2   27-MAR-19 6FEX    1       JRNL                                     
-REVDAT   1   28-NOV-18 6FEX    0                                                
-JRNL        AUTH   H.RICHTER,A.L.SATZ,M.BEDOUCHA,B.BUETTELMANN,A.C.PETERSEN,    
-JRNL        AUTH 2 A.HARMEIER,R.HERMOSILLA,R.HOCHSTRASSER,D.BURGER,B.GSELL,     
-JRNL        AUTH 3 R.GASSER,S.HUBER,M.N.HUG,B.KOCER,B.KUHN,M.RITTER,            
-JRNL        AUTH 4 M.G.RUDOLPH,F.WEIBEL,J.MOLINA-DAVID,J.J.KIM,J.V.SANTOS,      
-JRNL        AUTH 5 M.STIHLE,G.J.GEORGES,R.D.BONFIL,R.FRIDMAN,S.UHLES,S.MOLL,    
-JRNL        AUTH 6 C.FAUL,A.FORNONI,M.PRUNOTTO                                  
-JRNL        TITL   DNA-ENCODED LIBRARY-DERIVED DDR1 INHIBITOR PREVENTS FIBROSIS 
-JRNL        TITL 2 AND RENAL FUNCTION LOSS IN A GENETIC MOUSE MODEL OF ALPORT   
-JRNL        TITL 3 SYNDROME.                                                    
-JRNL        REF    ACS CHEM.BIOL.                V.  14    37 2019              
-JRNL        REFN                   ESSN 1554-8937                               
-JRNL        PMID   30452219                                                     
-JRNL        DOI    10.1021/ACSCHEMBIO.8B00866                                   
-DBREF  6FEX A  593   913  UNP    Q08345   DDR1_HUMAN     574    894             
-SEQADV 6FEX     A       UNP  Q08345    GLY   711 DELETION                       
-SEQADV 6FEX     A       UNP  Q08345    GLN   712 DELETION                       
-SEQADV 6FEX     A       UNP  Q08345    ALA   713 DELETION                       
-SEQADV 6FEX     A       UNP  Q08345    ALA   714 DELETION                       
-SEQADV 6FEX     A       UNP  Q08345    GLN   715 DELETION                       
-SEQADV 6FEX     A       UNP  Q08345    GLY   716 DELETION                       
-SEQADV 6FEX HIS A  914  UNP  Q08345              EXPRESSION TAG                 
-SEQADV 6FEX HIS A  915  UNP  Q08345              EXPRESSION TAG                 
-SEQADV 6FEX HIS A  916  UNP  Q08345              EXPRESSION TAG                 
-SEQADV 6FEX HIS A  917  UNP  Q08345              EXPRESSION TAG                 
-SEQADV 6FEX HIS A  918  UNP  Q08345              EXPRESSION TAG                 
-SEQADV 6FEX HIS A  919  UNP  Q08345              EXPRESSION TAG                 
-SEQRES   1 A  321  PRO GLY ALA VAL GLY ASP GLY PRO PRO ARG VAL ASP PHE          
-SEQRES   2 A  321  PRO ARG SER ARG LEU ARG PHE LYS GLU LYS LEU GLY GLU          
-SEQRES   3 A  321  GLY GLN PHE GLY GLU VAL HIS LEU CYS GLU VAL ASP SER          
-SEQRES   4 A  321  PRO GLN ASP LEU VAL SER LEU ASP PHE PRO LEU ASN VAL          
-SEQRES   5 A  321  ARG LYS GLY HIS PRO LEU LEU VAL ALA VAL LYS ILE LEU          
-SEQRES   6 A  321  ARG PRO ASP ALA THR LYS ASN ALA ARG ASN ASP PHE LEU          
-SEQRES   7 A  321  LYS GLU VAL LYS ILE MET SER ARG LEU LYS ASP PRO ASN          
-SEQRES   8 A  321  ILE ILE ARG LEU LEU GLY VAL CYS VAL GLN ASP ASP PRO          
-SEQRES   9 A  321  LEU CYS MET ILE THR ASP TYR MET GLU ASN GLY ASP LEU          
-SEQRES  10 A  321  ASN GLN PHE LEU SER ALA HIS GLN LEU GLU ASP LYS ALA          
-SEQRES  11 A  321  ALA GLU GLY ALA PRO GLY ASP PRO THR ILE SER TYR PRO          
-SEQRES  12 A  321  MET LEU LEU HIS VAL ALA ALA GLN ILE ALA SER GLY MET          
-SEQRES  13 A  321  ARG TYR LEU ALA THR LEU ASN PHE VAL HIS ARG ASP LEU          
-SEQRES  14 A  321  ALA THR ARG ASN CYS LEU VAL GLY GLU ASN PHE THR ILE          
-SEQRES  15 A  321  LYS ILE ALA ASP PHE GLY MET SER ARG ASN LEU TYR ALA          
-SEQRES  16 A  321  GLY ASP TYR TYR ARG VAL GLN GLY ARG ALA VAL LEU PRO          
-SEQRES  17 A  321  ILE ARG TRP MET ALA TRP GLU CYS ILE LEU MET GLY LYS          
-SEQRES  18 A  321  PHE THR THR ALA SER ASP VAL TRP ALA PHE GLY VAL THR          
-SEQRES  19 A  321  LEU TRP GLU VAL LEU MET LEU CYS ARG ALA GLN PRO PHE          
-SEQRES  20 A  321  GLY GLN LEU THR ASP GLU GLN VAL ILE GLU ASN ALA GLY          
-SEQRES  21 A  321  GLU PHE PHE ARG ASP GLN GLY ARG GLN VAL TYR LEU SER          
-SEQRES  22 A  321  ARG PRO PRO ALA CYS PRO GLN GLY LEU TYR GLU LEU MET          
-SEQRES  23 A  321  LEU ARG CYS TRP SER ARG GLU SER GLU GLN ARG PRO PRO          
-SEQRES  24 A  321  PHE SER GLN LEU HIS ARG PHE LEU ALA GLU ASP ALA LEU          
-SEQRES  25 A  321  ASN THR VAL HIS HIS HIS HIS HIS HIS                          
-HET    D6Z  A1001      56                                                       
-HET    IOD  A1002       1                                                       
-HET    IOD  A1003       1                                                       
-HET    IOD  A1004       1                                                       
-HET    IOD  A1005       1                                                       
-HET    MES  A1006      25                                                       
-HET     CL  A1007       1                                                       
-HET     CL  A1008       1                                                       
-HET     CL  A1009       1                                                       
-HET     CL  A1010       1                                                       
-HETNAM     D6Z 2-[4-BROMANYL-2-OXIDANYLIDENE-1'-(1~{H}-PYRAZOLO[4,3-            
-HETNAM   2 D6Z  B]PYRIDIN-5-YLCARBONYL)SPIRO[INDOLE-3,4'-PIPERIDINE]-           
-HETNAM   3 D6Z  1-YL]-~{N}-[2,2,2-TRIS(FLUORANYL)ETHYL]ETHANAMIDE               
-HETNAM     IOD IODIDE ION                                                       
-HETNAM     MES 2-(N-MORPHOLINO)-ETHANESULFONIC ACID                             
-HETNAM      CL CHLORIDE ION                                                     
-FORMUL   2  D6Z    C23 H20 BR F3 N6 O3                                          
-FORMUL   3  IOD    4(I 1-)                                                      
-FORMUL   7  MES    C6 H13 N O4 S                                                
-FORMUL   8   CL    4(CL 1-)                                                     
-FORMUL  12  HOH   *336(H2 O)                                                    
-CISPEP   1 ASP A  695    PRO A  696          0        -2.41                     
-SITE     1 AC1 16 VAL A 624  ALA A 653  GLU A 672  MET A 676                    
-SITE     2 AC1 16 ILE A 685  THR A 701  TYR A 703  MET A 704                    
-SITE     3 AC1 16 HIS A 764  LEU A 773  ALA A 783  ASP A 784                    
-SITE     4 AC1 16 PHE A 785  HOH A1214  HOH A1274  HOH A1323                    
-SITE     1 AC2  1 ARG A 886                                                     
-SITE     1 AC3  1 HOH A1361                                                     
-SITE     1 AC4  1 ARG A 658                                                     
-SITE     1 AC5  1 MES A1006                                                     
-SITE     1 AC6 10 TRP A 834  MET A 838  ALA A 842  GLN A 843                    
-SITE     2 AC6 10 PHE A 845  GLY A 846  LEU A 870  SER A 871                    
-SITE     3 AC6 10 IOD A1005  HOH A1113                                          
-SITE     1 AC7  1 SER A 739                                                     
-SITE     1 AC8  4 ASP A 681  PRO A 682  ARG A 686  HOH A1188                    
-SITE     1 AC9  1 CYS A 698                                                     
-SITE     1 AD1  3 GLN A 717  LEU A 718  HOH A1378                               
-CRYST1   40.834   61.750   63.072  90.00 106.51  90.00 P 1 21 1      2          
-ORIGX1      1.000000  0.000000  0.000000        0.00000                         
-ORIGX2      0.000000  1.000000  0.000000        0.00000                         
-ORIGX3      0.000000  0.000000  1.000000        0.00000                         
-SCALE1      0.024489  0.000000  0.007258        0.00000                         
-SCALE2      0.000000  0.016194  0.000000        0.00000                         
-SCALE3      0.000000  0.000000  0.016537        0.00000                         
 ATOM      1  N   ARG A 602      -4.379 -13.624 -30.172  1.00 56.20           N  
 ATOM      2  CA  ARG A 602      -3.332 -13.656 -29.153  1.00 55.54           C  
 ATOM      3  C   ARG A 602      -1.941 -13.771 -29.781  1.00 51.19           C  
@@ -4786,8 +4659,7 @@ ATOM   4772  H   ASP A 908     -25.002  20.232 -24.408  1.00 39.63           H
 ATOM   4773  HA  ASP A 908     -25.735  22.472 -25.499  1.00 42.64           H  
 ATOM   4774  HB2 ASP A 908     -23.681  21.673 -23.824  1.00 45.89           H  
 ATOM   4775  HB3 ASP A 908     -23.329  22.947 -24.706  1.00 45.89           H  
-TER    4776      ASP A 908                                                      
-MASTER      380    0   10   15    9    0   15    6 2729    1   81   25          
+TER
 ENDMDL
 MODEL         2
 ROOT
@@ -4819,3 +4691,4 @@ ENDROOT
 TORSDOF 0
 TER
 ENDMDL
+END
